@@ -19,12 +19,14 @@ Create a virtual environment to isolate the dependencies for your project:
 python -m venv myenv
 source myenv/bin/activate   # For Linux/MacOS
 myenv\Scripts\activate.bat  # For Windows
+```
 
 ### Installation
 
 Install all the required dependencies using the following command:
 ```bash
 pip install -r requirements.txt
+```
 
 
 ## Usage
