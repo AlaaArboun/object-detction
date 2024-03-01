@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Once the environment is set up and dependencies are installed, you can run the object detection example provided in `test.ipynb`.
+Once the environment is set up and dependencies are installed, you can run the object detection example provided in `inference.ipynb`.
 
 
 ## Resources
